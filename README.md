@@ -3,7 +3,7 @@ A python script to make developers routine task easy.
 
 Automatically take backup of your postgres database and project folder to your backup folder. 
 
-# if get "pg dump" not found error
+# if you get "pg dump" not found error
 Copy your Postgres bin folder Path > Go to "Environment Variable" > Open "System Variables" > Open "Path" > Paste path and save it > Restart Pc.
 
 # requirements
