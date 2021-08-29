@@ -27,11 +27,11 @@ os.makedirs(path)
 toDirectory = [path]
 
 # define postgres sql detail here
-postgres_host = "replace with your destination host"
-postgres_port = "replace with your destination port"
-postgres_db = "replace with your destination batabse name"
-postgres_user = "replace with your destination username"
-postgres_password = "replace with your destination password"
+postgres_host = "replace with your hostname"
+postgres_port = "replace with your portnumber"
+postgres_db = "replace with your batabase name"
+postgres_user = "replace with your username"
+postgres_password = "replace with your password"
 
 
 # where to store
