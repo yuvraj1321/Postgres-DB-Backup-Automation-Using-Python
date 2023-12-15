@@ -1,4 +1,4 @@
-# Project-Backup-Automation-Using-Python
+# Postgres-DB-Backup-Automation-Using-Python
 A python script to make developers routine task easy.
 
 Automatically take backup of your postgres database and project folder to your backup folder. 
